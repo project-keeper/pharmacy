@@ -111,7 +111,7 @@
 }   
 .r-part img,.r-part2 img,.r-part3 img{
   width:100%;
-  height:44%;
+  height:250px;
 }   
 .r-part h5,.r-part2 h5,.r-part3 h5{
   color:#ed6611;
@@ -183,13 +183,13 @@
   font-style: oblique;
 }
 /*  small screen */
-  @media screen and (max-width:550px){
+  @media screen and (max-width:650px){
   .r-part3,.r-part2,.r-part{
   height: fit-content;
   padding-bottom: 13px;
   }
   .r-part2 a{
-    margin-top: 20px;
+    margin-top: 0px;
   }
 leader site styling
    .one img,.two img,.three img{
