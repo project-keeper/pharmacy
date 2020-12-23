@@ -37,9 +37,6 @@
   background:white;
   transition:all 0.5s linear;
 }
-.unorder a:hover{
-  background:rgba(0,0,94,0.4);
-}
 .unorder a:hover::before{
   width:100%;
 }
